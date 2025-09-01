@@ -21,8 +21,10 @@ InventarioApp/
 Cómo ejecutar
 
 Backend:
-1. Abrir terminal en la carpeta backend
-2. Ejecutar: mvn spring-boot:run
+1. Asegurarse de tener MySQL instalado y corriendo (puede ser MySQL Workbench o cualquier cliente MySQL).
+2. Abrir terminal en la carpeta backend.
+3. Ejecutar: mvn spring-boot:run
+La aplicación creará automáticamente la base de datos inventario_db y las tablas si no existen.
 
 Frontend:
 1. Abrir terminal en la carpeta frontend
