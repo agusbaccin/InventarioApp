@@ -4,7 +4,7 @@ Descripción
 Aplicación full stack para gestionar productos: agregar, editar, eliminar y listar. Incluye backend en Java/Spring Boot y frontend en Angular.
 
 Tecnologías
-- Java 11, Spring Boot
+- Java 21, Spring Boot
 - Angular
 - MySQL
 - Maven
